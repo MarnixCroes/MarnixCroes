@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarnixCroes
 - 👀 I’m interested in Bitcoin
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Wasabi
+- 💞️ I’m looking to collaborate on Wasabi Wallet
 - 📫 How to reach me twitter.com/MarnixCroes
 
 <!---
